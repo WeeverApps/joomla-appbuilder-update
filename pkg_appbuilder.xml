@@ -22,8 +22,6 @@
       <maintainerurl>http://www.weeverapps.com/</maintainerurl>
       <section>Updates</section>
       <targetplatform name="joomla" version="2.5" />
-      <client_id>1</client_id>
-      <folder></folder>
 
    </update>
 
@@ -48,8 +46,6 @@
       <maintainerurl>http://www.weeverapps.com/</maintainerurl>
       <section>Updates</section>
       <targetplatform name="joomla" version="2.5" />
-      <client_id>1</client_id>
-      <folder></folder>
 
    </update>
 

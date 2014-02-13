@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extensionset name="Weever appBuilder Package" description="appBuilder for Joomla 2.5+">
-   <extension name="weever" element="weever" type="package" version="3.0.0" detailsurl="http://updates.weeverapp.com/joomla/pkg_appbuilder.xml"/>
+   <extension name="Weever appBuilder for Joomla" element="weever" type="package" version="3.0.0" detailsurl="http://updates.weeverapp.com/joomla/pkg_appbuilder.xml"/>
 </extensionset>
