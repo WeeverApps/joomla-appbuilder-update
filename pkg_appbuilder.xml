@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Update stream generated automatically by Akeeba Release System -->
+<?xml version="1.0" encoding="utf-8"?>
 <updates>
 
    <update>
@@ -17,7 +17,7 @@
       <tags>
          <tag>stable</tag>
       </tags>
-      
+
       <maintainer>Weever Apps Inc.</maintainer>
       <maintainerurl>http://www.weeverapps.com/</maintainerurl>
       <section>Updates</section>
